@@ -375,7 +375,7 @@ bool IntArray::removeLast() {
 
     if (!isEmpty()) {
 
-        count-;
+        count--;
 
         return true;
 
